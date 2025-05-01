@@ -1,0 +1,17 @@
+{
+  "name": "ar-viewer",
+  "version": "1.0.0",
+  "description": "Przeglądarka modelu 3D z model-viewer",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Twoje Imię",
+  "license": "MIT",
+  "dependencies": {
+    "@google/model-viewer": "^3.0.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
